@@ -1,0 +1,15 @@
+C:\Users\yisus\Source\Repos\Escuela\bin\Debug\Escuela.exe.config
+C:\Users\yisus\Source\Repos\Escuela\bin\Debug\Escuela.exe
+C:\Users\yisus\Source\Repos\Escuela\bin\Debug\Escuela.pdb
+C:\Users\yisus\Source\Repos\Escuela\obj\Debug\Escuela.csprojAssemblyReference.cache
+C:\Users\yisus\Source\Repos\Escuela\obj\Debug\Escuela.Principal.resources
+C:\Users\yisus\Source\Repos\Escuela\obj\Debug\Escuela.Properties.Resources.resources
+C:\Users\yisus\Source\Repos\Escuela\obj\Debug\Escuela.src.vistas.Alumno.resources
+C:\Users\yisus\Source\Repos\Escuela\obj\Debug\Escuela.src.vistas.Maestros.resources
+C:\Users\yisus\Source\Repos\Escuela\obj\Debug\Escuela.src.vistas.FrMateria.resources
+C:\Users\yisus\Source\Repos\Escuela\obj\Debug\Escuela.src.vistas.Materia_Maestro.resources
+C:\Users\yisus\Source\Repos\Escuela\obj\Debug\Escuela.csproj.GenerateResource.cache
+C:\Users\yisus\Source\Repos\Escuela\obj\Debug\Escuela.csproj.CoreCompileInputs.cache
+C:\Users\yisus\Source\Repos\Escuela\obj\Debug\Escuela.exe
+C:\Users\yisus\Source\Repos\Escuela\obj\Debug\Escuela.pdb
+C:\Users\yisus\source\repos\Escuela\obj\Debug\Escuela.src.vistas.Curso.resources
